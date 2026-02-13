@@ -2,15 +2,9 @@
 
 This is a system designed to efficiently retrieve the md5 hash of books on Library Genesis given the book's title and author.
 
-The entire system is self contained and makes use of a simplified version of [Library Genesis' Metadata Database](https://libgen.li/dirlist.php?dir=dbdumps) in order to reduce the storage requirements and to make it easier for people to use.
+The entire system is self contained and makes use of a simplified version of the [Library Genesis database](https://libgen.li/dirlist.php?dir=dbdumps) in order to reduce the storage requirements and to make it easier for people to use. By only storing the columns that are relevant to performing searches and encoding the database as a compressed parquet file, I've managed to reduce the storage requirements from 22.25 GB down to only 217 MB while still retaining all entries from the original. The database is still too big to be posted on GitHub but it could be [downloaded here](https://drive.google.com/drive/folders/1yvEC2mNyGaF0XjYql9DlN6dEEKk_ke1u?usp=sharing).
 
-By only storing the columns that are relevant to performing searches and encoding the database as a compressed parquet file, I've managed to reduce the storage requirements from 22.25 GB down to only 206 MB while still retaining all entries from the original.
-
-When you run the build.py script, it will decompress the libgub.zstd.parquet file and then begin building a MySQL database with indexes over the Title and Author fields.
-
-Once the database is built, you will be able to use the search.py script to determine the md5's of your books at a speed of about 3.9 seconds per 100 books. 
-
-The search was designed to be accurate despite its resilience to typos in both in the title of the book and in the names of the authors. If there are many books of with the same title and author in the database, the default behavior is to retrieve the most recent edition.
+When you run the build.py script, it will decompress the libgub.zstd.parquet file and then begin building a MySQL database with indexes over the Title and Author fields. Once the database is built, you will be able to use the search.py script to determine the md5's of your books at a speed of about 3.9 seconds per 100 books. The search was designed to be accurate despite its resilience to typos in both in the title of the book and in the names of the authors. If there are many books of with the same title and author in the database, the default behavior is to retrieve the most recent edition. 
 
 Future plans for this project include broadening the search space to include other metadata databases offered by LibGen as well as automating the updating of each.
 
