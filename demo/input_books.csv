@@ -1,0 +1,175 @@
+rank,id,doi,type,title,author
+1,34359815867,"['10.7208/chicago/9780226823386.001.0001'
+ '10.7208/chicago/9780226816395.001.0001']",book,"A Manual for Writers of Term Papers, Theses, and Dissertations: Chicago Style for Students and Researchers",['Kate L. Turabian']
+2,6828998132676,['10.4324/9780203381175_chapter_9'],book,Social Research Methods,['Alan Bryman']
+3,1975685076668,,article,Research Design,['John W. Creswell']
+4,8065948691325,,book,Human Anatomy and Physiology Laboratory Manual,['Elaine Nicpon Marieb']
+5,8590097889,,book,Calculus,['James Stewart']
+6,1975685068201,['10.5040/9781474238151.ch-011'],book,Doing Your Research Project: A Guide for First-Time Researchers in Education and Social Science,['Judith Bell']
+7,1382979619929,"['10.1007/978-0-230-36967-2' '10.1007/978-1-349-14985-8'
+ '10.1007/978-1-137-28926-1']",book,The Study Skills Handbook,['Stella Cottrell']
+8,5042291807662,['10.1001/jama.1960.03020080083029'],book,The Elements of Style,['William Strunk']
+9,1958505133798,,book,Biology,['Neil Alexander Campbell']
+10,1400159517117,['10.1024/1012-5302/a000397' '10.5860/choice.43-3433'],book,Discovering Statistics Using IBM SPSS,['Andy P. Field']
+11,395137095053,"['10.2307/41397448' '10.4324/9780203092170-13' '10.4324/9781003320609-47'
+ '10.4324/9781003060963-71']",book,Orientalism,['Edward W. Said']
+12,4535485581916,,book,Give Me Liberty!: An American History,['Eric Foner']
+13,884763458153,,book,They Say/I Say,['Cathy Birkenstein']
+14,111669355814,,book,Research Methods for Business Students,['Mark Saunders']
+15,274878019778,['10.1201/9781315735368' '10.1201/9780203833445'],book,Molecular Biology of the Cell: The Problems Book,['Bruce Alberts']
+16,1554778173773,,book,Medical-Surgical Nursing: Assessment and Management of Clinical Problems,['Sharon Mantik Lewis']
+17,2164663560751,['10.2307/2759245' '10.4324/9781003060963-46'],article,Imagined Communities: Reflections on the Origin and Spread of Nationalism,"[""Benedict R. O.'G. Anderson""]"
+18,111669235373,"['10.2307/j.ctt184qq4k' '10.1002/9781118011690.ch23'
+ '10.4324/9781003320609-17' '10.4324/9780429286827-43'
+ '10.4324/9781315742564-13' '10.4324/9781315702605-23'
+ '10.2307/j.ctt5vm1x2' '10.2307/j.ctt1k85dmc' '10.12987/9780300163209'
+ '10.1093/owc/9780199535712.001.0001']",book,The Communist Manifesto,['Karl Marx']
+19,1932735351705,['10.1057/jors.1991.155' '10.2307/2583667'],article,Introduction to Algorithms,['T. H. Corman']
+20,2723009400444,['10.1057/978-1-137-55052-1' '10.1007/978-0-230-34489-1'],book,Critical Thinking Skills: Developing Effective Analysis and Argument,['Stella Cottrell']
+21,498216291804,"['10.1038/548520a' '10.1080/14746700.2023.2188365'
+ '10.5860/choice.33-1577' '10.7551/mitpress/4617.003.0004'
+ '10.1093/oso/9780190905033.003.0012']",article,Artificial Intelligence: A Modern Approach,['S. Russel']
+22,17180021502,,book,English Grammar in Use,['Raymond Murphy']
+23,1941325265969,['10.2307/1250783'],book,Marketing Management,['Philip Kotler']
+24,1065152090948,"['10.7208/chicago/9780226065694.001.0001'
+ '10.7208/chicago/9780226062648.001.0001'
+ '10.7208/chicago/9780226239873.001.0001' '10.2307/358777']",book,The Craft of Research,['Wayne C. Booth']
+25,541166059827,,book,The Good Research Guide: For Small-Scale Social Research Projects,['Martyn Denscombe']
+26,996432497663,,book,Real World Research: A Resource for Social Scientists and Practitioner-Researchers,['Colin Robson']
+27,377957253466,"['10.4324/9781003056331-2' '10.5281/zenodo.6554122'
+ '10.1515/9781942401223-029' '10.2307/j.ctv3405qhx.5'
+ '10.7208/chicago/9780226623986.001.0001' '10.1007/978-1-137-08108-7_5'
+ '10.20933/100001118' '10.7551/mitpress/10815.001.0001'
+ '10.1093/owc/9780199537167.001.0001' '10.1093/owc/9780198840824.001.0001']",book,Frankenstein,['Mary Wollstonecraft Shelley']
+28,2851858284773,,book,Introductory Econometrics: A Modern Approach,['Jeffrey M. Wooldridge']
+29,5832565698694,,book,A Pocket Style Manual,['Diana Hacker']
+30,180388627814,,book,Qualitative Inquiry and Research Design,['John W. Creswell']
+31,7584912304956,,book,We the People: An Introduction to American Politics,['Ginsburg']
+32,240518351817,"['10.3998/mpub.7576' '10.2307/j.ctv1228gmt'
+ '10.7208/chicago/9780226026763.001.0001' '10.4324/9781315849201-9'
+ '10.1515/9781400852369' '10.23943/princeton/9780691158464.001.0001'
+ '10.2307/4344783' '10.1017/cbo9781139600514' '10.1017/cbo9780511802058'
+ '10.1093/oseo/instance.00258591' '10.1093/oseo/instance.00262105'
+ '10.1093/oseo/instance.00258601' '10.1093/actrade/9780198140245.book.1'
+ '10.1093/oseo/instance.00258622' '10.1093/oseo/instance.00258595'
+ '10.1093/oseo/instance.00259299' '10.1093/oseo/instance.00262091'
+ '10.1093/oseo/instance.00262114' '10.1093/actrade/9780198141082.book.1'
+ '10.1093/oseo/instance.00259302' '10.1093/oseo/instance.00262292'
+ '10.1093/actrade/9780198141556.book.1'
+ '10.1093/actrade/9780198752714.book.1' '10.1093/oseo/instance.00263617'
+ '10.4159/dlcl.aristotle-physics.1957'
+ '10.4159/dlcl.aristotle-nicomachean_ethics.1926'
+ '10.4159/dlcl.aristotle-poetics.1995']",book,Nicomachean Ethics,['Aristotle']
+33,197568670907,"['10.2307/j.ctv19fvzzk.18' '10.7551/mitpress/5671.003.0005'
+ '10.1093/oseo/instance.00025178' '10.1017/cbo9780511808166'
+ '10.1017/cbo9780511808173' '10.1017/cbo9780511840890.026'
+ '10.4324/9780429030772-13' '10.4324/9780429030772-10'
+ '10.4324/9780429030772-29' '10.4324/9780429030772-20'
+ '10.4324/9780429030772-1' '10.4324/9780429030772-16'
+ '10.4324/9780429030772-17' '10.1215/9780822390169-016'
+ '10.2307/j.ctv120qr2d.32' '10.28937/978-3-7873-3239-7']",book,Leviathan,['Thomas Hobbes']
+34,2654289979879,,book,Leadership: Theory and Practice,['Peter Guy Northouse']
+35,257698098523,['10.5281/zenodo.5599467'],book,Computer Networking,['James F. Kurose' 'Keith W. Ross']
+36,5411658798097,,book,The Art of Public Speaking,['Stephen E. Lucas']
+37,2327872382056,"['10.4324/9781003150497-3' '10.4324/9781003320609-37'
+ '10.2307/j.ctv120qr2d.34' '10.1215/9780822390169-018'
+ '10.1177/0094306118815499a' '10.2307/2077073']",book,Discipline and Punish: The Birth of the Prison,['Michel Foucault']
+38,1434519079142,,book,The Norton Field Guide to Writing,['Richard H. Bullock']
+39,61463,,book,Principles of Corporate Finance,['Richard A. Brealey']
+40,4277787474014,"['10.1057/fr.1991.33' '10.2307/1395391' '10.4324/9781003320609-60'
+ '10.4324/9780203824979' '10.4324/9780203902752'
+ '10.1057/978-1-137-04505-8_11']",book,Gender Trouble: Feminism and the Subversion of Identity,['Judith Butler']
+41,996432423717,['10.4135/9781446251607.n8'],book,Doing Qualitative Research: A Practical Handbook,['David Silverman']
+42,1297080297777,['10.4324/9780429499142-27'],book,Ways of Seeing: Based on the BBC Television Series,['John Berger']
+43,1675037316687,,book,International Economics: Theory and Policy,['Paul R. Krugman']
+44,34359949508,,book,Principles of Marketing,['Philip Kotler']
+45,2697239638546,['10.1007/978-0-387-21606-5' '10.1007/978-0-387-84858-7'],book,The Elements of Statistical Learning,['Jerome Friedman']
+46,7645041930806,,book,Reflective Practice: Writing and Professional Development,['Gillie Bolton']
+47,1563368291413,"['10.4324/9780203224342' '10.4324/9781315456539' '10.4324/9780203029053'
+ '10.4324/9780203720967']",book,Research Methods in Education,['Louis Cohen']
+48,2353642159602,,book,Principles of Anatomy and Physiology,['Gerard J. Tortora']
+49,7859790222345,,book,Case Study Research: Design and Methods,['Robert K. Yin']
+50,240518339108,"['10.2307/475765' '10.4324/9781315881201-9'
+ '10.7208/chicago/9780226500508.001.0001'
+ '10.1093/oso/9780198781820.003.0004' '10.33137/rr.v27i4.11829'
+ '10.1522/cla.man.pri']",book,The Prince,['Niccolo Machiavelli']
+51,798863924884,"['10.2307/25175748' '10.2307/25175683' '10.2307/25175505'
+ '10.2307/25175559' '10.2307/25175446' '10.2307/25175273'
+ '10.1136/bmj.315.7105.422' '10.1136/bmj.315.7101.180'
+ '10.1136/bmj.315.7110.740' '10.1136/bmj.315.7104.364'
+ '10.1136/bmj.315.7107.540' '10.1136/bmj.315.7103.305'
+ '10.1136/bmj.315.7108.596' '10.1136/bmj.315.7106.480'
+ '10.1136/bmj.315.7102.243' '10.1136/bmj.315.7109.672' '10.2307/25175335'
+ '10.2307/25175618' '10.2307/25175204']",article,How to Read a Paper: The Basics of Evidence-Based Medicine,['Trisha Greenhalgh']
+52,627065369555,,book,"Fundamentals of Physics: David Halliday, Robert Resnick, Jearl Walker",['David Halliday']
+53,446676599005,,book,"Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers",['Alexander Osterwalder' 'Yves Pigneur']
+54,481036408605,['10.1093/hebz/9780198869443.001.0001'],book,Business Research Methods,['E. Bell']
+55,1047972144148,,book,Engineering Mechanics,['R. C. Hibbeler']
+56,4097398805837,['10.1007/978-1-137-42653-6'],book,Skills for Success,['Stella Cottrell']
+57,1589138012640,['10.1117/1.2819119'],article,Pattern Recognition and Machine Learning,['Christopher M. Bishop']
+58,1202590853959,['10.4324/9781315237473' '10.1080/07377366.1986.10401080'],book,The Reflective Practitioner: How Professionals Think in Action,['Donald A. Schèon']
+59,103079368564,"['10.1017/9781108553766' '10.5040/9798400663741.0006'
+ '10.1007/978-1-349-23831-6_1' '10.1093/owc/9780199536016.001.0001'
+ '10.1007/978-1-137-05227-8' '10.1007/978-1-137-05227-8_2']",book,Heart of Darkness,['Joseph Conrad']
+60,592705573071,"['10.1007/978-1-349-25349-4_25' '10.4324/9781003060635-5'
+ '10.4324/9780429269400-8']",book,Pedagogy of the Oppressed,['Paulo Freire']
+61,103079414209,"['10.4159/dlcl.plato_philosopher-republic.2013'
+ '10.1017/cbo9781139794541.021' '10.1017/cbo9781139794558.016'
+ '10.1017/cbo9781139794558.014' '10.1017/cbo9781139794541.019'
+ '10.1017/cbo9781139794558.015' '10.1017/cbo9781139794541.020'
+ '10.5040/9781501311680.ch-008']",book,The Republic,['Plato']
+62,1357209844518,,book,Intermediate Algebra: A Graphing Approach,['K. Elayn Martin-Gay']
+63,5454608534884,,book,Film Art: An Introduction,['David Bordwell']
+64,4037269288682,,book,A Writer's Reference,['Diana Hacker']
+65,2654289793478,['10.1007/978-981-287-694-2_4' '10.2139/ssrn.3576457'],book,Research Methodology: A Step-by-Step Guide for Beginners,['Ranjit Kumar']
+66,8521215182098,,book,The Little Seagull Handbook: With Exercises,['Michal Brody']
+67,3040836992735,,book,Fundamentals of Anatomy and Physiology,['Frederic Martini']
+68,1580547970468,,book,Getting to Yes: Negotiating Agreement Without Giving In,['Ury']
+69,584115716676,['10.1108/acmm.2000.12847aae.001' '10.1016/0261-3069(91)90101-9'],book,Materials Science and Engineering: An Introduction,['William D. Callister']
+70,3040837057141,,book,Calculus,['Ron Larson']
+71,3435974016694,['10.1016/b978-0-7020-4299-7.00011-1'],book,Rang and Dale's Pharmacology,['James Ritter']
+72,2826088661313,,book,Computer Networks,['Andrew S. Tannenbaum']
+73,4423816315024,,book,Fundamentals of Nursing: The Art and Science of Nursing Care,['Carol Taylor']
+74,652835209387,,book,Management and Organisational Behaviour,['Laurie J. Mullins']
+75,4501125806321,['10.1093/owc/9780199685448.003.0016' '10.1093/owc/9780199538843.003.0002'],book,Yellow Wallpaper,['Charlotte Perkins Gilman']
+76,420906941690,"['10.1093/hesc/9780199609819.001.0001'
+ '10.1093/actrade/9780199689095.001.0001']",book,Physical Chemistry,['P. W. Atkins']
+77,4973572234028,,book,"Options, Futures, and Other Derivatives",['John Hull']
+78,807453899946,"['10.1021/ed054pa270.2' '10.1021/ed075p419'
+ '10.1111/j.1949-8594.1959.tb08218.x' '10.1007/978-3-642-81771-7_2']",book,Chemistry: The Central Science,['Theodore L. Brown']
+79,5961414636196,,book,College Algebra: An Early Functions Approach,['Robert Blitzer']
+80,489626389013,['10.3366/olr.1980.002'],book,The History of Sexuality: 1,['Michel Foucault']
+81,867583562339,"['10.2307/20045621' '10.4324/9780203092170-30' '10.4324/9781003060963-50'
+ '10.1007/978-1-349-62397-6_6' '10.1007/978-1-349-62965-7_6'
+ '10.1163/9789004638976_004' '10.2307/j.ctt2005tk7.6']",book-chapter,The Clash of Civilizations?,['Samuel P. Huntington']
+82,386547213239,,book,Everything's an Argument: With Readings,['Andrea A. Lunsford']
+83,4784593630239,,book,Mokslinių Tyrimų Metodologija Ir Metodai: (Edukologija Ir Kiti Socialiniai Mokslai),['K.ęstutis Kardelis']
+84,1279900256710,,book,University Physics: With Modern Physics,['Hugh D. Young']
+85,2662879767268,,book,Principles of Biochemistry: The Molecular Basis of Cell Structure and Function,['Nelson']
+86,730144447912,,book,Intermediate Accounting,['Donald E. Kieso']
+87,5428838741047,,book,Intermediate Microeconomics: A Modern Approach,['Hal R. Varian']
+88,3685082089203,['10.15358/9783800648108'],book,The Design of Everyday Things,['Donald A. Norman']
+89,377957132236,['10.53841/bpscog.2019.1.4.57'],book,Doing a Literature Review: Releasing the Social Science Research Imagination,['Chris Hart']
+90,3667902228860,['10.1017/s1049096521001992'],book,Governing Texas: An Introduction to Texas Politics],['Edward J. Harpham']
+91,4776003679429,,book,Elementary Statistics,['Mario F. Triola']
+92,652835070768,"['10.1111/1753-6405.12166' '10.4324/9781003117407' '10.4324/9781003117452'
+ '10.4324/9781003117445']",book,SPSS Survival Manual: A Step by Step Guide to Data Analysis Using SPSS for Windows (Version 12),['Julie Pallant']
+93,300647880912,"['10.5962/bhl.title.17622' '10.1017/cbo9780511805059'
+ '10.1017/cbo9780511805028.006' '10.1017/cbo9780511805059.006'
+ '10.1017/cbo9780511805028' '10.4324/9781315508818-8' '10.2307/2021377'
+ '10.5214/ans.0972.7531.2009.160207' '10.5214/ans.0972.7531.2009.160108']",book,Meditations on First Philosophy,['René Descartes']
+94,17180011335,['10.1049/sej.1994.0029'],book,Software Engineering: Ruan Ji Gong Cheng],['Ian Sommerville']
+95,670015059607,"['10.7208/chicago/9780226458106.001.0001' '10.1119/1.1969660'
+ '10.4324/9781912281589' '10.1515/9781400831296-024'
+ '10.2307/j.ctv1jk0jrs.26' '10.7208/chicago/9780226458144.001.0001']",book,The Structure of Scientific Revolutions,['Thomas S. Kuhn']
+96,6708739094372,,book,Easy Writer,['Andrea Lundsford']
+97,34359762791,"['10.1017/cbo9781139014380' '10.1017/cbo9780511808517.005'
+ '10.1017/cbo9780511809590.004' '10.1017/9781316091388'
+ '10.1017/cbo9780511809637' '10.1017/cbo9780511809620'
+ '10.1017/cbo9780511810039.011' '10.1017/cbo9780511809644'
+ '10.1017/9781316569894' '10.1017/cbo9781139164061' '10.2307/j.ctt1njjwt'
+ '10.2307/j.ctv16h2njd.11' '10.12987/9780300128154'
+ '10.12987/9780300235722' '10.4324/9780203714805-2']",book,Groundwork of the Metaphysics of Morals,['Immanuel Kant']
+98,3229815430934,,article,The C Programming Language,['Brian W. Kernighan']
+99,1717986963028,,book,A Manual of Laboratory and Diagnostic Tests,['Frances Talaska Fischbach']
+100,8658654356287,,book,Biochemistry,['Berg Jm']

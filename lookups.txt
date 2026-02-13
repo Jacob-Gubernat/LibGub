@@ -1,0 +1,487 @@
+Query book_id='34359815867', title='A Manual for Writers of Term Papers, Theses, and Dissertations: Chicago Style for Students and Researchers', author=array(['Kate L. Turabian'], dtype=object)
+  [Title FT] 0 hit(s) in 33.8 ms
+  [Author FT] 6 hit(s) in 4.9 ms
+   → Author search successful
+  ✓ Matched (via author) in 38.9 ms: ID=4034047
+
+Query book_id='6828998132676', title='Social Research Methods', author=array(['Alan Bryman'], dtype=object)
+  [Title FT] 230 hit(s) in 57.5 ms
+   → Title search successful
+  ✓ Matched (via title) in 58.2 ms: ID=1299190
+
+Query book_id='8065948691325', title='Human Anatomy and Physiology Laboratory Manual', author=array(['Elaine Nicpon Marieb'], dtype=object)
+  [Title FT] 14 hit(s) in 5.3 ms
+   → Title search successful
+  ✓ Matched (via title) in 5.4 ms: ID=3366636
+
+Query book_id='8590097889', title='Calculus', author=array(['James Stewart'], dtype=object)
+  [Title FT] 1000 hit(s) in 440.7 ms
+   → Title search successful
+  ✓ Matched (via title) in 446.7 ms: ID=4124716
+
+Query book_id='1975685068201', title='Doing Your Research Project: A Guide for First-Time Researchers in Education and Social Science', author=array(['Judith Bell'], dtype=object)
+  [Title FT] 5 hit(s) in 10.5 ms
+   → Title search successful
+  ✓ Matched (via title) in 10.5 ms: ID=1600849
+
+Query book_id='1382979619929', title='The Study Skills Handbook', author=array(['Stella Cottrell'], dtype=object)
+  [Title FT] 15 hit(s) in 10.8 ms
+   → Title search successful
+  ✓ Matched (via title) in 10.9 ms: ID=2954437
+
+Query book_id='5042291807662', title='The Elements of Style', author=array(['William Strunk'], dtype=object)
+  [Title FT] 57 hit(s) in 13.4 ms
+   → Title search successful
+  ✓ Matched (via title) in 13.6 ms: ID=1523639
+
+Query book_id='1958505133798', title='Biology', author=array(['Neil Alexander Campbell'], dtype=object)
+  [Title FT] 1000 hit(s) in 813.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 821.4 ms: ID=4386046
+
+Query book_id='1400159517117', title='Discovering Statistics Using IBM SPSS', author=array(['Andy P. Field'], dtype=object)
+  [Title FT] 14 hit(s) in 5.4 ms
+   → Title search successful
+  ✓ Matched (via title) in 5.5 ms: ID=4284968
+
+Query book_id='395137095053', title='Orientalism', author=array(['Edward W. Said'], dtype=object)
+  [Title FT] 322 hit(s) in 46.3 ms
+   → Title search successful
+  ✓ Matched (via title) in 47.3 ms: ID=3042617
+
+Query book_id='4535485581916', title='Give Me Liberty!: An American History', author=array(['Eric Foner'], dtype=object)
+  [Title FT] 13 hit(s) in 6.9 ms
+   → Title search successful
+  ✓ Matched (via title) in 7.0 ms: ID=2531758
+
+Query book_id='884763458153', title='They Say/I Say', author=array(['Cathy Birkenstein'], dtype=object)
+  [Title FT] 0 hit(s) in 0.2 ms
+  [Author FT] 15 hit(s) in 3.4 ms
+   → Author search successful
+  ✓ Matched (via author) in 4.0 ms: ID=2270817
+
+Query book_id='111669355814', title='Research Methods for Business Students', author=array(['Mark Saunders'], dtype=object)
+  [Title FT] 14 hit(s) in 7.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 8.2 ms: ID=3718725
+
+Query book_id='274878019778', title='Molecular Biology of the Cell: The Problems Book', author=array(['Bruce Alberts'], dtype=object)
+  [Title FT] 5 hit(s) in 6.8 ms
+  [Author FT] 135 hit(s) in 16.5 ms
+   → Author search successful
+  ✓ Matched (via author) in 23.9 ms: ID=3416020
+
+Query book_id='1554778173773', title='Medical-Surgical Nursing: Assessment and Management of Clinical Problems', author=array(['Sharon Mantik Lewis'], dtype=object)
+  [Title FT] 7 hit(s) in 7.7 ms
+   → Title search successful
+  ✓ Matched (via title) in 8.0 ms: ID=3183343
+
+Query book_id='111669235373', title='The Communist Manifesto', author=array(['Karl Marx'], dtype=object)
+  [Title FT] 58 hit(s) in 14.8 ms
+   → Title search successful
+  ✓ Matched (via title) in 15.8 ms: ID=2853615
+
+Query book_id='2723009400444', title='Critical Thinking Skills: Developing Effective Analysis and Argument', author=array(['Stella Cottrell'], dtype=object)
+  [Title FT] 1 hit(s) in 8.1 ms
+   → Title search successful
+  ✓ Matched (via title) in 8.3 ms: ID=408710
+
+Query book_id='17180021502', title='English Grammar in Use', author=array(['Raymond Murphy'], dtype=object)
+  [Title FT] 1000 hit(s) in 160.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 165.5 ms: ID=3238506
+
+Query book_id='1941325265969', title='Marketing Management', author=array(['Philip Kotler'], dtype=object)
+  [Title FT] 404 hit(s) in 61.7 ms
+   → Title search successful
+  ✓ Matched (via title) in 63.3 ms: ID=3699724
+
+Query book_id='1065152090948', title='The Craft of Research', author=array(['Wayne C. Booth'], dtype=object)
+  [Title FT] 27 hit(s) in 6.7 ms
+   → Title search successful
+  ✓ Matched (via title) in 6.8 ms: ID=2517810
+
+Query book_id='541166059827', title='The Good Research Guide: For Small-Scale Social Research Projects', author=array(['Martyn Denscombe'], dtype=object)
+  [Title FT] 5 hit(s) in 7.8 ms
+   → Title search successful
+  ✓ Matched (via title) in 7.9 ms: ID=741359
+
+Query book_id='996432497663', title='Real World Research: A Resource for Social Scientists and Practitioner-Researchers', author=array(['Colin Robson'], dtype=object)
+  [Title FT] 0 hit(s) in 6.5 ms
+  [Author FT] 403 hit(s) in 61.8 ms
+   → Author search failed
+  ✗ No match after author in 69.7 ms
+
+Query book_id='377957253466', title='Frankenstein', author=array(['Mary Wollstonecraft Shelley'], dtype=object)
+  [Title FT] 110 hit(s) in 23.1 ms
+   → Title search successful
+  ✓ Matched (via title) in 23.5 ms: ID=4137484
+
+Query book_id='2851858284773', title='Introductory Econometrics: A Modern Approach', author=array(['Jeffrey M. Wooldridge'], dtype=object)
+  [Title FT] 14 hit(s) in 6.2 ms
+   → Title search successful
+  ✓ Matched (via title) in 6.3 ms: ID=2564033
+
+Query book_id='5832565698694', title='A Pocket Style Manual', author=array(['Diana Hacker'], dtype=object)
+  [Title FT] 7 hit(s) in 4.7 ms
+   → Title search successful
+  ✓ Matched (via title) in 4.7 ms: ID=3149013
+
+Query book_id='180388627814', title='Qualitative Inquiry and Research Design', author=array(['John W. Creswell'], dtype=object)
+  [Title FT] 4 hit(s) in 4.8 ms
+   → Title search successful
+  ✓ Matched (via title) in 4.9 ms: ID=3052304
+
+Query book_id='7584912304956', title='We the People: An Introduction to American Politics', author=array(['Ginsburg'], dtype=object)
+  [Title FT] 19 hit(s) in 14.6 ms
+  [Author FT] 169 hit(s) in 27.8 ms
+   → Author search failed
+  ✗ No match after author in 43.2 ms
+
+Query book_id='240518351817', title='Nicomachean Ethics', author=array(['Aristotle'], dtype=object)
+  [Title FT] 79 hit(s) in 11.9 ms
+   → Title search successful
+  ✓ Matched (via title) in 12.2 ms: ID=4319248
+
+Query book_id='197568670907', title='Leviathan', author=array(['Thomas Hobbes'], dtype=object)
+  [Title FT] 209 hit(s) in 32.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 33.2 ms: ID=2196072
+
+Query book_id='2654289979879', title='Leadership: Theory and Practice', author=array(['Peter Guy Northouse'], dtype=object)
+  [Title FT] 35 hit(s) in 13.8 ms
+   → Title search successful
+  ✓ Matched (via title) in 14.0 ms: ID=3353050
+
+Query book_id='257698098523', title='Computer Networking', author=array(['James F. Kurose', 'Keith W. Ross'], dtype=object)
+  [Title FT] 143 hit(s) in 20.8 ms
+   → Title search successful
+  ✓ Matched (via title) in 21.4 ms: ID=2904146
+
+Query book_id='5411658798097', title='The Art of Public Speaking', author=array(['Stephen E. Lucas'], dtype=object)
+  [Title FT] 180 hit(s) in 36.8 ms
+   → Title search successful
+  ✓ Matched (via title) in 37.4 ms: ID=4293403
+
+Query book_id='2327872382056', title='Discipline and Punish: The Birth of the Prison', author=array(['Michel Foucault'], dtype=object)
+  [Title FT] 5 hit(s) in 2.9 ms
+   → Title search successful
+  ✓ Matched (via title) in 2.9 ms: ID=2594942
+
+Query book_id='1434519079142', title='The Norton Field Guide to Writing', author=array(['Richard H. Bullock'], dtype=object)
+  [Title FT] 8 hit(s) in 3.4 ms
+   → Title search successful
+  ✓ Matched (via title) in 3.5 ms: ID=3614560
+
+Query book_id='61463', title='Principles of Corporate Finance', author=array(['Richard A. Brealey'], dtype=object)
+  [Title FT] 40 hit(s) in 10.0 ms
+   → Title search successful
+  ✓ Matched (via title) in 10.2 ms: ID=3452559
+
+Query book_id='4277787474014', title='Gender Trouble: Feminism and the Subversion of Identity', author=array(['Judith Butler'], dtype=object)
+  [Title FT] 5 hit(s) in 4.9 ms
+   → Title search successful
+  ✓ Matched (via title) in 5.1 ms: ID=923669
+
+Query book_id='996432423717', title='Doing Qualitative Research: A Practical Handbook', author=array(['David Silverman'], dtype=object)
+  [Title FT] 1 hit(s) in 4.2 ms
+  [Author FT] 520 hit(s) in 96.3 ms
+   → Author search failed
+  ✗ No match after author in 102.3 ms
+
+Query book_id='1297080297777', title='Ways of Seeing: Based on the BBC Television Series', author=array(['John Berger'], dtype=object)
+  [Title FT] 2 hit(s) in 5.4 ms
+   → Title search successful
+  ✓ Matched (via title) in 5.4 ms: ID=486913
+
+Query book_id='1675037316687', title='International Economics: Theory and Policy', author=array(['Paul R. Krugman'], dtype=object)
+  [Title FT] 21 hit(s) in 13.0 ms
+   → Title search successful
+  ✓ Matched (via title) in 13.2 ms: ID=3452078
+
+Query book_id='34359949508', title='Principles of Marketing', author=array(['Philip Kotler'], dtype=object)
+  [Title FT] 83 hit(s) in 12.5 ms
+   → Title search successful
+  ✓ Matched (via title) in 12.9 ms: ID=4371672
+
+Query book_id='2697239638546', title='The Elements of Statistical Learning', author=array(['Jerome Friedman'], dtype=object)
+  [Title FT] 21 hit(s) in 6.2 ms
+   → Title search successful
+  ✓ Matched (via title) in 6.3 ms: ID=1610995
+
+Query book_id='7645041930806', title='Reflective Practice: Writing and Professional Development', author=array(['Gillie Bolton'], dtype=object)
+  [Title FT] 1 hit(s) in 3.1 ms
+   → Title search successful
+  ✓ Matched (via title) in 3.2 ms: ID=1193589
+
+Query book_id='1563368291413', title='Research Methods in Education', author=array(['Louis Cohen'], dtype=object)
+  [Title FT] 69 hit(s) in 17.9 ms
+   → Title search successful
+  ✓ Matched (via title) in 18.1 ms: ID=2284996
+
+Query book_id='2353642159602', title='Principles of Anatomy and Physiology', author=array(['Gerard J. Tortora'], dtype=object)
+  [Title FT] 20 hit(s) in 4.8 ms
+   → Title search successful
+  ✓ Matched (via title) in 4.9 ms: ID=4373482
+
+Query book_id='7859790222345', title='Case Study Research: Design and Methods', author=array(['Robert K. Yin'], dtype=object)
+  [Title FT] 4 hit(s) in 8.3 ms
+   → Title search successful
+  ✓ Matched (via title) in 8.4 ms: ID=2338577
+
+Query book_id='240518339108', title='The Prince', author=array(['Niccolo Machiavelli'], dtype=object)
+  [Title FT] 523 hit(s) in 116.3 ms
+   → Title search successful
+  ✓ Matched (via title) in 118.0 ms: ID=4257790
+
+Query book_id='627065369555', title='Fundamentals of Physics: David Halliday, Robert Resnick, Jearl Walker', author=array(['David Halliday'], dtype=object)
+  [Title FT] 0 hit(s) in 3.1 ms
+  [Author FT] 282 hit(s) in 38.2 ms
+   → Author search successful
+  ✓ Matched (via author) in 43.7 ms: ID=2627605
+
+Query book_id='446676599005', title='Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers', author=array(['Alexander Osterwalder', 'Yves Pigneur'], dtype=object)
+  [Title FT] 5 hit(s) in 4.5 ms
+   → Title search successful
+  ✓ Matched (via title) in 4.6 ms: ID=1620498
+
+Query book_id='481036408605', title='Business Research Methods', author=array(['E. Bell'], dtype=object)
+  [Title FT] 61 hit(s) in 14.3 ms
+   → Title search successful
+  ✓ Matched (via title) in 14.6 ms: ID=4224318
+
+Query book_id='1047972144148', title='Engineering Mechanics', author=array(['R. C. Hibbeler'], dtype=object)
+  [Title FT] 604 hit(s) in 75.2 ms
+   → Title search successful
+  ✓ Matched (via title) in 77.2 ms: ID=3371898
+
+Query book_id='4097398805837', title='Skills for Success', author=array(['Stella Cottrell'], dtype=object)
+  [Title FT] 112 hit(s) in 23.1 ms
+  [Author FT] 132 hit(s) in 20.4 ms
+   → Author search failed
+  ✗ No match after author in 44.3 ms
+
+Query book_id='1202590853959', title='The Reflective Practitioner: How Professionals Think in Action', author=array(['Donald A. Schèon'], dtype=object)
+  [Title FT] 3 hit(s) in 2.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 2.7 ms: ID=4442097
+
+Query book_id='103079368564', title='Heart of Darkness', author=array(['Joseph Conrad'], dtype=object)
+  [Title FT] 45 hit(s) in 10.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 10.8 ms: ID=831373
+
+Query book_id='592705573071', title='Pedagogy of the Oppressed', author=array(['Paulo Freire'], dtype=object)
+  [Title FT] 15 hit(s) in 3.5 ms
+   → Title search successful
+  ✓ Matched (via title) in 3.6 ms: ID=3776753
+
+Query book_id='103079414209', title='The Republic', author=array(['Plato'], dtype=object)
+  [Title FT] 1000 hit(s) in 408.2 ms
+   → Title search successful
+  ✓ Matched (via title) in 410.9 ms: ID=2272680
+
+Query book_id='1357209844518', title='Intermediate Algebra: A Graphing Approach', author=array(['K. Elayn Martin-Gay'], dtype=object)
+  [Title FT] 1 hit(s) in 3.0 ms
+   → Title search successful
+  ✓ Matched (via title) in 3.0 ms: ID=2175070
+
+Query book_id='5454608534884', title='Film Art: An Introduction', author=array(['David Bordwell'], dtype=object)
+  [Title FT] 118 hit(s) in 21.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 22.0 ms: ID=4121347
+
+Query book_id='4037269288682', title="A Writer's Reference", author=array(['Diana Hacker'], dtype=object)
+  [Title FT] 9 hit(s) in 3.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 3.6 ms: ID=3792417
+
+Query book_id='2654289793478', title='Research Methodology: A Step-by-Step Guide for Beginners', author=array(['Ranjit Kumar'], dtype=object)
+  [Title FT] 3 hit(s) in 3.9 ms
+   → Title search successful
+  ✓ Matched (via title) in 3.9 ms: ID=2712088
+
+Query book_id='8521215182098', title='The Little Seagull Handbook: With Exercises', author=array(['Michal Brody'], dtype=object)
+  [Title FT] 1 hit(s) in 1.4 ms
+   → Title search successful
+  ✓ Matched (via title) in 1.4 ms: ID=3356167
+
+Query book_id='3040836992735', title='Fundamentals of Anatomy and Physiology', author=array(['Frederic Martini'], dtype=object)
+  [Title FT] 21 hit(s) in 4.4 ms
+   → Title search successful
+  ✓ Matched (via title) in 4.5 ms: ID=4142518
+
+Query book_id='1580547970468', title='Getting to Yes: Negotiating Agreement Without Giving In', author=array(['Ury'], dtype=object)
+  [Title FT] 3 hit(s) in 2.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 2.8 ms: ID=751465
+
+Query book_id='584115716676', title='Materials Science and Engineering: An Introduction', author=array(['William D. Callister'], dtype=object)
+  [Title FT] 25 hit(s) in 13.4 ms
+   → Title search successful
+  ✓ Matched (via title) in 13.9 ms: ID=3008390
+
+Query book_id='3040837057141', title='Calculus', author=array(['Ron Larson'], dtype=object)
+  [Title FT] 1000 hit(s) in 21.2 ms
+   → Title search successful
+  ✓ Matched (via title) in 26.3 ms: ID=4243162
+
+Query book_id='3435974016694', title="Rang and Dale's Pharmacology", author=array(['James Ritter'], dtype=object)
+  [Title FT] 14 hit(s) in 3.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 3.7 ms: ID=4474643
+
+Query book_id='2826088661313', title='Computer Networks', author=array(['Andrew S. Tannenbaum'], dtype=object)
+  [Title FT] 427 hit(s) in 41.0 ms
+   → Title search successful
+  ✓ Matched (via title) in 42.8 ms: ID=3055796
+
+Query book_id='4423816315024', title='Fundamentals of Nursing: The Art and Science of Nursing Care', author=array(['Carol Taylor'], dtype=object)
+  [Title FT] 6 hit(s) in 4.1 ms
+   → Title search successful
+  ✓ Matched (via title) in 4.1 ms: ID=3924611
+
+Query book_id='652835209387', title='Management and Organisational Behaviour', author=array(['Laurie J. Mullins'], dtype=object)
+  [Title FT] 15 hit(s) in 2.5 ms
+   → Title search successful
+  ✓ Matched (via title) in 2.6 ms: ID=3684898
+
+Query book_id='4501125806321', title='Yellow Wallpaper', author=array(['Charlotte Perkins Gilman'], dtype=object)
+  [Title FT] 3 hit(s) in 1.6 ms
+   → Title search successful
+  ✓ Matched (via title) in 1.9 ms: ID=465642
+
+Query book_id='420906941690', title='Physical Chemistry', author=array(['P. W. Atkins'], dtype=object)
+  [Title FT] 578 hit(s) in 67.5 ms
+   → Title search successful
+  ✓ Matched (via title) in 72.2 ms: ID=3707858
+
+Query book_id='4973572234028', title='Options, Futures, and Other Derivatives', author=array(['John Hull'], dtype=object)
+  [Title FT] 42 hit(s) in 8.2 ms
+   → Title search successful
+  ✓ Matched (via title) in 8.4 ms: ID=3804499
+
+Query book_id='807453899946', title='Chemistry: The Central Science', author=array(['Theodore L. Brown'], dtype=object)
+  [Title FT] 29 hit(s) in 8.0 ms
+   → Title search successful
+  ✓ Matched (via title) in 8.3 ms: ID=3437550
+
+Query book_id='5961414636196', title='College Algebra: An Early Functions Approach', author=array(['Robert Blitzer'], dtype=object)
+  [Title FT] 0 hit(s) in 4.6 ms
+  [Author FT] 52 hit(s) in 6.8 ms
+   → Author search failed
+  ✗ No match after author in 11.7 ms
+
+Query book_id='489626389013', title='The History of Sexuality: 1', author=array(['Michel Foucault'], dtype=object)
+  [Title FT] 124 hit(s) in 18.4 ms
+   → Title search successful
+  ✓ Matched (via title) in 18.9 ms: ID=457444
+
+Query book_id='867583562339', title='The Clash of Civilizations?', author=array(['Samuel P. Huntington'], dtype=object)
+  [Title FT] 26 hit(s) in 6.8 ms
+  [Author FT] 145 hit(s) in 17.8 ms
+   → Author search successful
+  ✓ Matched (via author) in 25.2 ms: ID=2283494
+
+Query book_id='386547213239', title="Everything's an Argument: With Readings", author=array(['Andrea A. Lunsford'], dtype=object)
+  [Title FT] 7 hit(s) in 2.3 ms
+   → Title search successful
+  ✓ Matched (via title) in 2.3 ms: ID=3599729
+
+Query book_id='4784593630239', title='Mokslinių Tyrimų Metodologija Ir Metodai: (Edukologija Ir Kiti Socialiniai Mokslai)', author=array(['K.ęstutis Kardelis'], dtype=object)
+  [Title FT] 0 hit(s) in 0.4 ms
+  [Author FT] 0 hit(s) in 0.5 ms
+   → Author search failed
+  ✗ No match after author in 0.9 ms
+
+Query book_id='1279900256710', title='University Physics: With Modern Physics', author=array(['Hugh D. Young'], dtype=object)
+  [Title FT] 40 hit(s) in 11.1 ms
+   → Title search successful
+  ✓ Matched (via title) in 11.3 ms: ID=3002705
+
+Query book_id='2662879767268', title='Principles of Biochemistry: The Molecular Basis of Cell Structure and Function', author=array(['Nelson'], dtype=object)
+  [Title FT] 0 hit(s) in 4.1 ms
+  [Author FT] 1000 hit(s) in 369.5 ms
+   → Author search failed
+  ✗ No match after author in 377.1 ms
+
+Query book_id='730144447912', title='Intermediate Accounting', author=array(['Donald E. Kieso'], dtype=object)
+  [Title FT] 56 hit(s) in 7.1 ms
+   → Title search successful
+  ✓ Matched (via title) in 7.4 ms: ID=4412169
+
+Query book_id='5428838741047', title='Intermediate Microeconomics: A Modern Approach', author=array(['Hal R. Varian'], dtype=object)
+  [Title FT] 10 hit(s) in 2.7 ms
+   → Title search successful
+  ✓ Matched (via title) in 2.7 ms: ID=3621808
+
+Query book_id='3685082089203', title='The Design of Everyday Things', author=array(['Donald A. Norman'], dtype=object)
+  [Title FT] 15 hit(s) in 7.1 ms
+   → Title search successful
+  ✓ Matched (via title) in 7.2 ms: ID=1431916
+
+Query book_id='377957132236', title='Doing a Literature Review: Releasing the Social Science Research Imagination', author=array(['Chris Hart'], dtype=object)
+  [Title FT] 1 hit(s) in 3.7 ms
+   → Title search successful
+  ✓ Matched (via title) in 3.8 ms: ID=2386298
+
+Query book_id='3667902228860', title='Governing Texas: An Introduction to Texas Politics]', author=array(['Edward J. Harpham'], dtype=object)
+  [Title FT] 0 hit(s) in 2.2 ms
+  [Author FT] 25 hit(s) in 4.7 ms
+   → Author search successful
+  ✓ Matched (via author) in 7.0 ms: ID=3068121
+
+Query book_id='4776003679429', title='Elementary Statistics', author=array(['Mario F. Triola'], dtype=object)
+  [Title FT] 69 hit(s) in 8.3 ms
+   → Title search successful
+  ✓ Matched (via title) in 8.7 ms: ID=3419678
+
+Query book_id='652835070768', title='SPSS Survival Manual: A Step by Step Guide to Data Analysis Using SPSS for Windows (Version 12)', author=array(['Julie Pallant'], dtype=object)
+  [Title FT] 7 hit(s) in 5.2 ms
+   → Title search successful
+  ✓ Matched (via title) in 5.3 ms: ID=271815
+
+Query book_id='300647880912', title='Meditations on First Philosophy', author=array(['René Descartes'], dtype=object)
+  [Title FT] 39 hit(s) in 6.8 ms
+   → Title search successful
+  ✓ Matched (via title) in 6.9 ms: ID=3186040
+
+Query book_id='17180011335', title='Software Engineering: Ruan Ji Gong Cheng]', author=array(['Ian Sommerville'], dtype=object)
+  [Title FT] 0 hit(s) in 1.7 ms
+  [Author FT] 49 hit(s) in 8.3 ms
+   → Author search failed
+  ✗ No match after author in 10.1 ms
+
+Query book_id='670015059607', title='The Structure of Scientific Revolutions', author=array(['Thomas S. Kuhn'], dtype=object)
+  [Title FT] 22 hit(s) in 6.3 ms
+   → Title search successful
+  ✓ Matched (via title) in 6.4 ms: ID=2944521
+
+Query book_id='6708739094372', title='Easy Writer', author=array(['Andrea Lundsford'], dtype=object)
+  [Title FT] 1 hit(s) in 2.5 ms
+  [Author FT] 0 hit(s) in 1.5 ms
+   → Author search failed
+  ✗ No match after author in 4.0 ms
+
+Query book_id='34359762791', title='Groundwork of the Metaphysics of Morals', author=array(['Immanuel Kant'], dtype=object)
+  [Title FT] 25 hit(s) in 4.3 ms
+   → Title search successful
+  ✓ Matched (via title) in 4.5 ms: ID=4336869
+
+Query book_id='1717986963028', title='A Manual of Laboratory and Diagnostic Tests', author=array(['Frances Talaska Fischbach'], dtype=object)
+  [Title FT] 16 hit(s) in 4.5 ms
+   → Title search successful
+  ✓ Matched (via title) in 4.6 ms: ID=1158155
+
+Query book_id='8658654356287', title='Biochemistry', author=array(['Berg Jm'], dtype=object)
+  [Title FT] 1000 hit(s) in 114.2 ms
+   → Title search successful
+  ✓ Matched (via title) in 117.8 ms: ID=4376701
+
+Finished 100 lookups in 3.9s
+  saved_books:   84
+  missing_books: 9
+  articles:      7
+
+  → saved_books.csv
+  → missing_books.csv
