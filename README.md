@@ -79,3 +79,5 @@ Tier 2 → Author FT returned 4 hit(s) in 5.5 ms
 
 → Found acceptable candidate(s).
 ```
+
+Buit by Jacob Gubernat
